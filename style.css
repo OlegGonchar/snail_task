@@ -1,0 +1,19 @@
+.cell {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: #00B7FF;
+    color: #000;
+    display: inline-block;
+    margin: 2px;
+}
+.cell:hover{
+    background-color: #23527c;
+    cursor:pointer;
+}
+#sum {
+    color: #23527c;
+    font-size: 2em;
+    font-weight: bold;
+}
